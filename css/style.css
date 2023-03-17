@@ -1,0 +1,103 @@
+@charset "utf-8";
+a {
+  text-decoration: underline solid white;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+div {
+  width: 600px;
+  margin: 10px auto;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+h1 {
+  padding: 3px;
+  margin: 0;
+  font-size: 24px;
+  background-color: black;
+  color: white;
+}
+
+h2 {
+  padding: 3px;
+  margin: 0;
+}
+
+h2 a {
+  font-size: 20px;
+  color: white;
+}
+
+h2.red {
+  background-color: red;
+}
+
+h2.orange {
+  background-color: orange;
+}
+
+h2.yellow {
+  background-color: yellow;
+}
+
+h2.yellow a {
+  text-decoration: underline solid black;
+  color: black;
+}
+
+h2.green {
+  background-color: green;
+}
+
+h2.blue {
+  background-color: blue;
+}
+
+h2.purple {
+  background-color: purple;
+}
+
+h2.pink {
+  background-color: pink;
+}
+
+h2.pink a {
+  text-decoration: underline solid black;
+  color: black;
+}
+
+h2.light-blue {
+  background-color: lightblue;
+}
+
+h2.light-blue a {
+  text-decoration: underline solid black;
+  color: black;
+}
+
+h2.yellow-green {
+  background-color: greenyellow;
+}
+
+h2.yellow-green a {
+  text-decoration: underline solid black;
+  color: black;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+}
+
+.oshi {
+  display: inline;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin-left: 30px;
+}
